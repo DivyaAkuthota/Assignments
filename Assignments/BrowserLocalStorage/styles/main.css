@@ -1,0 +1,23 @@
+.panel{
+    width: 400px;
+}
+
+
+.delete-button{
+    float: right;
+}
+
+.container-holder{
+    padding: 1%;
+}
+
+.add-to-do-div{
+  padding: 1%;
+  background-color: gray;
+  width:30%;
+}
+
+.container-div{
+  width:100%;
+
+}
