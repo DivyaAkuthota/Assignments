@@ -1,0 +1,12 @@
+.panel{
+    width: 400px;
+}
+
+
+.delete-button{
+    float: right;
+}
+
+.container-holder{
+    padding: 1%;
+}
